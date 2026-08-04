@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\astolfo\gxp_hair"
+
+	"$phong" "1"
+	"$phongboost"	".4"
+	"$phongexponent" "50"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.5 .5 2]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "10"
+	"$rimlightboost"          ".2"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\astolfo\gxp_lightwarp"
+}
