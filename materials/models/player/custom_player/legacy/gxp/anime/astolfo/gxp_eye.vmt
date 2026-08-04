@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models\player\custom_player\legacy\gxp\anime\astolfo\gxp_eye"
-	"$nodecal" "1"
-
-	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\astolfo\gxp_lightwarp"
-}
